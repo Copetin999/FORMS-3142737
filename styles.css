@@ -58,7 +58,7 @@ input {
     padding: 30px;
   }
 
-  form2 {
+  form + form {
     width: 340px;
   }
 }
